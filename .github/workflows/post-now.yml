@@ -1,0 +1,35 @@
+name: Post now
+
+on:
+  push:
+    branches: [main]
+    paths: ["post-now/**"]   # runs whenever you upload something into post-now/
+  workflow_dispatch:          # or click "Run workflow" to retry
+
+permissions:
+  contents: write   # to remove posted files and update post-now/log.txt
+
+concurrency:
+  group: post-now
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    env:
+      META_TOKEN: ${{ secrets.META_TOKEN }}
+      FB_PAGE_ID: ${{ vars.FB_PAGE_ID }}
+      IG_USER_ID: ${{ vars.IG_USER_ID }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install image converter (for PNG uploads)
+        run: pip install --quiet pillow
+
+      - name: Post the files in post-now/
+        run: python post_now.py
