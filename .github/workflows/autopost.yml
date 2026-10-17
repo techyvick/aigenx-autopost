@@ -1,0 +1,52 @@
+name: Autopost
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 min (GitHub can run these a few minutes late)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run: only show what would be posted"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write   # to commit state.json back
+
+concurrency:
+  group: autopost
+  cancel-in-progress: false
+
+jobs:
+  post:
+    if: vars.AUTOPOST_PAUSED != 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      META_TOKEN: ${{ secrets.META_TOKEN }}
+      FB_PAGE_ID: ${{ vars.FB_PAGE_ID }}
+      IG_USER_ID: ${{ vars.IG_USER_ID }}
+      MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check setup (manual runs only)
+        if: github.event_name == 'workflow_dispatch'
+        run: python3 publish.py check
+
+      - name: Post what's due
+        run: python3 publish.py run ${{ inputs.dry_run && '--dry-run' || '' }}
+
+      - name: Show status
+        if: always()
+        run: python3 publish.py plan
+
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "autopost-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json 2>/dev/null || exit 0
+          git diff --cached --quiet && exit 0
+          git commit -m "autopost: update state"
+          git pull --rebase && git push
