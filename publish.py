@@ -59,6 +59,12 @@ class ApiError(Exception):
     pass
 
 
+def needs_access(err):
+    """Meta said the token isn't allowed to do this (missing permission, expired token):
+    retried every run instead of counting as a failed attempt, so it posts once the token is fixed."""
+    return any(c in str(err) for c in ("(#200)", "(#10)", "(#190)", "(#3)"))
+
+
 # ---------- schedule + state ----------
 
 def tz_from(offset):
@@ -472,6 +478,8 @@ def cmd_run(posts, problems, listed, state, now, dry):
             continue
         for net in p["platforms"]:
             s = state.setdefault(p["key"], {}).setdefault(net, {})
+            if s.get("status") == "failed" and needs_access(s.get("error", "")):
+                s.pop("status")                      # blocked by a permission, not by the post: try again
             if s.get("status") in ("posted", "scheduled", "missed", "failed", "cancelled"):
                 continue
             due = p["at"] <= now
@@ -505,12 +513,15 @@ def cmd_run(posts, problems, listed, state, now, dry):
                 print(f"   ✓ {post_id}")
             except ApiError as e:
                 failures += 1
-                s["attempts"] = s.get("attempts", 0) + 1
                 s["error"] = str(e)
                 s["fp"] = p["fp"]
-                if s["attempts"] >= MAX_ATTEMPTS:
-                    s["status"] = "failed"
-                print(f"   ✗ attempt {s['attempts']}/{MAX_ATTEMPTS}: {e}")
+                if needs_access(e):
+                    print(f"   ✗ Meta permission problem, will retry every run until it's fixed: {e}")
+                else:
+                    s["attempts"] = s.get("attempts", 0) + 1
+                    if s["attempts"] >= MAX_ATTEMPTS:
+                        s["status"] = "failed"
+                    print(f"   ✗ attempt {s['attempts']}/{MAX_ATTEMPTS}: {e}")
             save_state(state)
     return 1 if failures else 0
 
