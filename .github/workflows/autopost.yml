@@ -1,8 +1,10 @@
 name: Autopost
 
 on:
+  repository_dispatch:
+    types: [tick]            # main trigger: cron-job.org calls this every 15 min (reliable)
   schedule:
-    - cron: "*/15 * * * *"   # every 15 min (GitHub can run these a few minutes late)
+    - cron: "*/15 * * * *"   # backup only: GitHub often runs these hours late
   workflow_dispatch:
     inputs:
       dry_run:
@@ -20,7 +22,7 @@ concurrency:
 jobs:
   post:
     if: vars.AUTOPOST_PAUSED != 'true'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 20
     env:
       META_TOKEN: ${{ secrets.META_TOKEN }}
@@ -28,7 +30,15 @@ jobs:
       IG_USER_ID: ${{ vars.IG_USER_ID }}
       MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+        with:
+          ref: main          # latest state.json, even if this run waited behind another one
+
+      - name: Convert PNG images to JPG
+        if: hashFiles('media/**/*.png', 'media/**/*.PNG') != ''
+        run: |
+          pip install --quiet --break-system-packages pillow || pip install --quiet pillow
+          python3 publish.py convert
 
       - name: Check setup (manual runs only)
         if: github.event_name == 'workflow_dispatch'
