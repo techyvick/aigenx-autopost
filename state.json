@@ -1,9 +1,10 @@
 {
   "d1-1-prompt-formula": {
     "facebook": {
-      "status": "scheduled",
+      "status": "posted",
       "id": "115072498114791_1111388721817774",
-      "at": "2026-10-17T21:46:50+00:00"
+      "at": "2026-10-17T21:46:50+00:00",
+      "fp": null
     },
     "instagram": {
       "status": "missed"
@@ -11,9 +12,10 @@
   },
   "d1-2-three-tools": {
     "facebook": {
-      "status": "scheduled",
+      "status": "posted",
       "id": "115072498114791_1111389028484410",
-      "at": "2026-10-17T21:47:02+00:00"
+      "at": "2026-10-17T21:47:02+00:00",
+      "fp": null
     },
     "instagram": {
       "status": "missed"
@@ -21,9 +23,10 @@
   },
   "d1-3-tutorials": {
     "facebook": {
-      "status": "scheduled",
+      "status": "posted",
       "id": "115072498114791_1111389235151056",
-      "at": "2026-10-17T21:47:11+00:00"
+      "at": "2026-10-17T21:47:11+00:00",
+      "fp": null
     },
     "instagram": {
       "status": "missed"
@@ -31,9 +34,10 @@
   },
   "d2-1-ai-faces": {
     "facebook": {
-      "status": "scheduled",
+      "status": "posted",
       "id": "115072498114791_1111389598484353",
-      "at": "2026-10-17T21:47:22+00:00"
+      "at": "2026-10-17T21:47:22+00:00",
+      "fp": null
     },
     "instagram": {
       "status": "missed"
@@ -41,9 +45,10 @@
   },
   "d2-2-real-or-ai": {
     "facebook": {
-      "status": "scheduled",
+      "status": "posted",
       "id": "115072498114791_1111389948484318",
-      "at": "2026-10-17T21:47:34+00:00"
+      "at": "2026-10-17T21:47:34+00:00",
+      "fp": null
     },
     "instagram": {
       "status": "posted",
@@ -53,129 +58,138 @@
   },
   "d2-3-raw-to-graded": {
     "facebook": {
-      "status": "scheduled",
-      "id": "115072498114791_1111390338484279",
-      "at": "2026-10-17T21:47:49+00:00"
+      "status": "cancelled",
+      "id": "115072498114791_1111390338484279"
     },
     "instagram": {}
   },
   "d3-1-camera-moves": {
     "facebook": {
-      "status": "scheduled",
-      "id": "115072498114791_1111390635150916",
-      "at": "2026-10-17T21:48:00+00:00"
+      "status": "cancelled",
+      "id": "115072498114791_1111390635150916"
     },
     "instagram": {}
   },
   "d3-2-pujo-in-ai": {
     "facebook": {
-      "status": "scheduled",
-      "id": "115072498114791_1111390898484223",
-      "at": "2026-10-17T21:48:11+00:00"
+      "status": "cancelled",
+      "id": "115072498114791_1111390898484223"
     },
     "instagram": {}
   },
   "d3-3-zero-cart": {
     "facebook": {
-      "status": "scheduled",
-      "id": "115072498114791_1111391145150865",
-      "at": "2026-10-17T21:48:21+00:00"
+      "status": "cancelled",
+      "id": "115072498114791_1111391145150865"
     },
     "instagram": {}
   },
   "d4-1-prompt-mistakes": {
     "facebook": {
-      "status": "scheduled",
-      "id": "115072498114791_1111391438484169",
-      "at": "2026-10-17T21:48:32+00:00"
+      "status": "cancelled",
+      "id": "115072498114791_1111391438484169"
     },
     "instagram": {}
   },
   "d4-2-four-grades": {
     "facebook": {
-      "status": "scheduled",
-      "id": "115072498114791_1111391735150806",
-      "at": "2026-10-17T21:48:43+00:00"
+      "status": "cancelled",
+      "id": "115072498114791_1111391735150806"
     },
     "instagram": {}
   },
   "d4-3-music-video-maths": {
     "facebook": {
-      "status": "scheduled",
-      "id": "115072498114791_1111392048484108",
-      "at": "2026-10-17T21:48:56+00:00"
+      "status": "cancelled",
+      "id": "115072498114791_1111392048484108"
     },
     "instagram": {}
   },
   "d5-1-character-consistency": {
     "facebook": {
-      "status": "scheduled",
-      "id": "115072498114791_1111392425150737",
-      "at": "2026-10-17T21:49:07+00:00"
+      "status": "cancelled",
+      "id": "115072498114791_1111392425150737"
     },
     "instagram": {}
   },
   "d5-2-kolkata-2080": {
     "facebook": {
-      "status": "scheduled",
-      "id": "115072498114791_1111392675150712",
-      "at": "2026-10-17T21:49:16+00:00"
+      "status": "cancelled",
+      "id": "115072498114791_1111392675150712"
     },
     "instagram": {}
   },
   "d5-3-how-it-works": {
     "facebook": {
-      "status": "scheduled",
-      "id": "115072498114791_1111393095150670",
-      "at": "2026-10-17T21:49:27+00:00"
+      "status": "cancelled",
+      "id": "115072498114791_1111393095150670"
     },
     "instagram": {}
   },
   "d6-1-first-ai-video": {
     "facebook": {
-      "status": "scheduled",
-      "id": "115072498114791_1111393435150636",
-      "at": "2026-10-17T21:49:38+00:00"
+      "status": "cancelled",
+      "id": "115072498114791_1111393435150636"
     },
     "instagram": {}
   },
   "d6-2-four-creators": {
     "facebook": {
-      "status": "scheduled",
-      "id": "115072498114791_1111393765150603",
-      "at": "2026-10-17T21:49:49+00:00"
+      "status": "cancelled",
+      "id": "115072498114791_1111393765150603"
     },
     "instagram": {}
   },
   "d6-3-ai-changes-weekly": {
     "facebook": {
-      "status": "scheduled",
-      "id": "115072498114791_1111394135150566",
-      "at": "2026-10-17T21:49:59+00:00"
+      "status": "cancelled",
+      "id": "115072498114791_1111394135150566"
     },
     "instagram": {}
   },
   "d7-1-prompt-of-the-week": {
     "facebook": {
-      "status": "scheduled",
-      "id": "115072498114791_1111394455150534",
-      "at": "2026-10-17T21:50:10+00:00"
+      "status": "cancelled",
+      "id": "115072498114791_1111394455150534"
     },
     "instagram": {}
   },
   "d7-2-teach-next": {
     "facebook": {
-      "status": "scheduled",
-      "id": "115072498114791_1111394735150506",
-      "at": "2026-10-17T21:50:21+00:00"
+      "status": "cancelled",
+      "id": "115072498114791_1111394735150506"
     },
     "instagram": {}
   },
   "d7-3-meet-your-mentor": {
     "facebook": {
+      "status": "cancelled",
+      "id": "115072498114791_1111394998483813"
+    }
+  },
+  "2026-10-20_50_Camera_Moves": {
+    "facebook": {
+      "attempts": 1,
+      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
+      "fp": "13063f96d260931f"
+    },
+    "instagram": {}
+  },
+  "2026-10-21_5_Sora_Replacements": {
+    "facebook": {
+      "attempts": 1,
+      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
+      "fp": "a3e8035768b04ef2"
+    },
+    "instagram": {}
+  },
+  "2026-10-21_Raw_to_Graded": {
+    "facebook": {
       "status": "scheduled",
-      "id": "115072498114791_1111394998483813",
-      "at": "2026-10-17T21:50:31+00:00"
+      "id": "115072498114791_1113962818227031",
+      "fp": "45e015734304307d",
+      "kind": "images",
+      "at": "2026-10-20T13:03:58+00:00"
     }
   }
 }
