@@ -217,13 +217,19 @@
   },
   "2026-10-22_Character_Consistency_Kit": {
     "facebook": {
-      "status": "scheduled",
-      "id": "28957277580571631",
-      "fp": "3ecc9f7440bc4ff5",
+      "status": "posted",
+      "id": "1629390095387825",
+      "fp": "909fd630f11f260c",
       "kind": "video",
-      "at": "2026-10-21T19:10:04+00:00"
+      "at": "2026-10-21T20:21:28+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "posted",
+      "id": "18069505811788465",
+      "fp": "909fd630f11f260c",
+      "kind": "video",
+      "at": "2026-10-21T20:22:14+00:00"
+    }
   },
   "2026-10-22_AI_Music_Video_Workflow": {
     "facebook": {
