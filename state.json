@@ -185,11 +185,19 @@
   },
   "2026-10-21_5_Sora_Replacements": {
     "facebook": {
-      "attempts": 1,
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "a3e8035768b04ef2"
+      "status": "posted",
+      "id": "1003002576165869",
+      "fp": "a3e8035768b04ef2",
+      "kind": "video",
+      "at": "2026-10-21T09:53:11+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "posted",
+      "id": "18136444585729672",
+      "fp": "a3e8035768b04ef2",
+      "kind": "video",
+      "at": "2026-10-21T09:53:50+00:00"
+    }
   },
   "2026-10-21_Raw_to_Graded": {
     "facebook": {
