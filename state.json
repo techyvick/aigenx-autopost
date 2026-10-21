@@ -217,15 +217,21 @@
   },
   "2026-10-22_Character_Consistency_Kit": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "3ecc9f7440bc4ff5"
+      "status": "scheduled",
+      "id": "28957277580571631",
+      "fp": "3ecc9f7440bc4ff5",
+      "kind": "video",
+      "at": "2026-10-21T19:10:04+00:00"
     },
     "instagram": {}
   },
   "2026-10-22_AI_Music_Video_Workflow": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "58cbb4563e568991"
+      "status": "scheduled",
+      "id": "2164448707842095",
+      "fp": "58cbb4563e568991",
+      "kind": "video",
+      "at": "2026-10-21T19:10:08+00:00"
     },
     "instagram": {}
   },
@@ -241,8 +247,11 @@
   },
   "2026-10-23_Which_AI_Tools_Are_Free": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "988c12bdd6a28c4b"
+      "status": "scheduled",
+      "id": "3021890771478305",
+      "fp": "988c12bdd6a28c4b",
+      "kind": "video",
+      "at": "2026-10-21T19:10:19+00:00"
     },
     "instagram": {}
   },
@@ -258,15 +267,21 @@
   },
   "2026-10-24_Seedance_25_Template": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "7e2d56895646d879"
+      "status": "scheduled",
+      "id": "2556138141551799",
+      "fp": "7e2d56895646d879",
+      "kind": "video",
+      "at": "2026-10-21T19:10:28+00:00"
     },
     "instagram": {}
   },
   "2026-10-25_Festival_AI_Prompt_Pack": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "1361a8c8aeae1819"
+      "status": "scheduled",
+      "id": "1842690990056500",
+      "fp": "1361a8c8aeae1819",
+      "kind": "video",
+      "at": "2026-10-21T19:10:38+00:00"
     },
     "instagram": {}
   },
@@ -282,15 +297,21 @@
   },
   "2026-10-26_Same_Prompt_4_Tools": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "090975c175a1bc75"
+      "status": "scheduled",
+      "id": "1585164149529916",
+      "fp": "090975c175a1bc75",
+      "kind": "video",
+      "at": "2026-10-21T19:10:48+00:00"
     },
     "instagram": {}
   },
   "2026-10-26_10_Product_Ad_Prompts": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "7c51b746a688488c"
+      "status": "scheduled",
+      "id": "4628782337378763",
+      "fp": "7c51b746a688488c",
+      "kind": "video",
+      "at": "2026-10-21T19:10:58+00:00"
     },
     "instagram": {}
   },
@@ -306,15 +327,21 @@
   },
   "2026-10-27_Client_Pitch_Templates": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "b5a5378de92eafca"
+      "status": "scheduled",
+      "id": "1434313775521778",
+      "fp": "b5a5378de92eafca",
+      "kind": "video",
+      "at": "2026-10-21T19:11:03+00:00"
     },
     "instagram": {}
   },
   "2026-10-28_AI_Video_Pricing_Sheet": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "ef7988a9c87ece56"
+      "status": "scheduled",
+      "id": "1870687377625284",
+      "fp": "ef7988a9c87ece56",
+      "kind": "video",
+      "at": "2026-10-21T19:11:13+00:00"
     },
     "instagram": {}
   },
@@ -330,15 +357,21 @@
   },
   "2026-10-29_100_Reel_Hooks": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "0f0b3ee09388fda2"
+      "status": "scheduled",
+      "id": "3213051972419769",
+      "fp": "0f0b3ee09388fda2",
+      "kind": "video",
+      "at": "2026-10-21T19:11:22+00:00"
     },
     "instagram": {}
   },
   "2026-10-29_Nano_Banana_Portraits": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "5bad8c72f614f86a"
+      "status": "scheduled",
+      "id": "1598412911335869",
+      "fp": "5bad8c72f614f86a",
+      "kind": "video",
+      "at": "2026-10-21T19:11:26+00:00"
     },
     "instagram": {}
   },
@@ -354,8 +387,11 @@
   },
   "2026-10-30_Your_City_in_AI": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "2815bb01f186841c"
+      "status": "scheduled",
+      "id": "1991242944905921",
+      "fp": "2815bb01f186841c",
+      "kind": "video",
+      "at": "2026-10-21T19:11:31+00:00"
     },
     "instagram": {}
   },
@@ -371,15 +407,21 @@
   },
   "2026-10-31_60-Second_Script_Template": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "08ccbbc79fe42ab9"
+      "status": "scheduled",
+      "id": "4533588066911260",
+      "fp": "08ccbbc79fe42ab9",
+      "kind": "video",
+      "at": "2026-10-21T19:11:35+00:00"
     },
     "instagram": {}
   },
   "2026-11-01_Shot_List_and_Storyboard": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "8d95f955e6fa22c3"
+      "status": "scheduled",
+      "id": "1111891038206658",
+      "fp": "8d95f955e6fa22c3",
+      "kind": "video",
+      "at": "2026-10-21T19:11:45+00:00"
     },
     "instagram": {}
   },
@@ -395,15 +437,21 @@
   },
   "2026-11-02_AI_Video_Fix-It_List": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "5fa425f3b6fca010"
+      "status": "scheduled",
+      "id": "1091181296874878",
+      "fp": "5fa425f3b6fca010",
+      "kind": "video",
+      "at": "2026-10-21T19:11:56+00:00"
     },
     "instagram": {}
   },
   "2026-11-02_AI_Lip-Sync_Guide": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "579eda2c113e878c"
+      "status": "scheduled",
+      "id": "2702377343553461",
+      "fp": "579eda2c113e878c",
+      "kind": "video",
+      "at": "2026-10-21T19:12:06+00:00"
     },
     "instagram": {}
   },
@@ -419,15 +467,21 @@
   },
   "2026-11-03_25_Faceless_AI_Niches": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "7d06d6adf26f2729"
+      "status": "scheduled",
+      "id": "1758435082119958",
+      "fp": "7d06d6adf26f2729",
+      "kind": "video",
+      "at": "2026-10-21T19:12:16+00:00"
     },
     "instagram": {}
   },
   "2026-11-04_30-Day_Content_Calendar": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "ffe203712953d0b6"
+      "status": "scheduled",
+      "id": "2131445381095108",
+      "fp": "ffe203712953d0b6",
+      "kind": "video",
+      "at": "2026-10-21T19:12:28+00:00"
     },
     "instagram": {}
   },
@@ -443,15 +497,21 @@
   },
   "2026-11-05_Follower_to_Client_DMs": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "6af1a53125206438"
+      "status": "scheduled",
+      "id": "2363345567762796",
+      "fp": "6af1a53125206438",
+      "kind": "video",
+      "at": "2026-10-21T19:12:37+00:00"
     },
     "instagram": {}
   },
   "2026-11-05_AI_Influencer_Sheet": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "f8e77c59489a38f6"
+      "status": "scheduled",
+      "id": "1496648202358848",
+      "fp": "f8e77c59489a38f6",
+      "kind": "video",
+      "at": "2026-10-21T19:12:42+00:00"
     },
     "instagram": {}
   },
@@ -467,15 +527,21 @@
   },
   "2026-11-06_Quality_Booster_List": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "2f780e92f69ae4e9"
+      "status": "scheduled",
+      "id": "2332067340887580",
+      "fp": "2f780e92f69ae4e9",
+      "kind": "video",
+      "at": "2026-10-21T19:12:47+00:00"
     },
     "instagram": {}
   },
   "2026-11-07_Free_Music_and_SFX_Guide": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "c52ab9d2a99c2d79"
+      "status": "scheduled",
+      "id": "1091072607088517",
+      "fp": "c52ab9d2a99c2d79",
+      "kind": "video",
+      "at": "2026-10-21T19:12:56+00:00"
     },
     "instagram": {}
   },
@@ -491,8 +557,11 @@
   },
   "2026-11-08_Portfolio_Checklist": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "1fe7deab7fdb38ea"
+      "status": "scheduled",
+      "id": "1701648484877285",
+      "fp": "1fe7deab7fdb38ea",
+      "kind": "video",
+      "at": "2026-10-21T19:12:59+00:00"
     },
     "instagram": {}
   },
@@ -508,15 +577,21 @@
   },
   "2026-11-09_AI_Invite_Video_Prompts": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "4fcc2cad683543b5"
+      "status": "scheduled",
+      "id": "1488501709392060",
+      "fp": "4fcc2cad683543b5",
+      "kind": "video",
+      "at": "2026-10-21T19:13:04+00:00"
     },
     "instagram": {}
   },
   "2026-11-09_ElevenLabs_Voice_Settings": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "d21edd540277dfec"
+      "status": "scheduled",
+      "id": "1636835538101964",
+      "fp": "d21edd540277dfec",
+      "kind": "video",
+      "at": "2026-10-21T19:13:09+00:00"
     },
     "instagram": {}
   },
@@ -532,8 +607,11 @@
   },
   "2026-11-10_1-Page_Prompt_Formula": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "03d0b05692120ccf"
+      "status": "scheduled",
+      "id": "1628982295571824",
+      "fp": "03d0b05692120ccf",
+      "kind": "video",
+      "at": "2026-10-21T19:13:15+00:00"
     },
     "instagram": {}
   },
@@ -549,8 +627,11 @@
   },
   "2026-11-11_AIGenX_Starter_Kit": {
     "facebook": {
-      "error": "POST 115072498114791/videos → (#200) User does not have sufficient administrative permission for this action on this page. If the page business requires Two Factor Authentication, the user also needs to enable Two Factor Authentication.",
-      "fp": "286c3525b3490cd4"
+      "status": "scheduled",
+      "id": "2194793734767015",
+      "fp": "286c3525b3490cd4",
+      "kind": "video",
+      "at": "2026-10-21T19:13:20+00:00"
     }
   }
 }
