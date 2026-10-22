@@ -239,7 +239,13 @@
       "kind": "video",
       "at": "2026-10-21T19:10:08+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "posted",
+      "id": "18118806374319870",
+      "fp": "58cbb4563e568991",
+      "kind": "video",
+      "at": "2026-10-22T15:59:07+00:00"
+    }
   },
   "2026-10-23_8_Camera_Moves": {
     "facebook": {
