@@ -271,7 +271,13 @@
       "kind": "video",
       "at": "2026-10-21T19:10:19+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "posted",
+      "id": "17933621412410395",
+      "fp": "988c12bdd6a28c4b",
+      "kind": "video",
+      "at": "2026-10-23T17:09:30+00:00"
+    }
   },
   "2026-10-24_Your_Festival_in_AI": {
     "facebook": {
