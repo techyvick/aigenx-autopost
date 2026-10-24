@@ -303,7 +303,13 @@
       "kind": "video",
       "at": "2026-10-21T19:10:28+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "posted",
+      "id": "17884523031526385",
+      "fp": "7e2d56895646d879",
+      "kind": "video",
+      "at": "2026-10-24T15:45:34+00:00"
+    }
   },
   "2026-10-25_Festival_AI_Prompt_Pack": {
     "facebook": {
