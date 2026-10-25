@@ -319,7 +319,13 @@
       "kind": "video",
       "at": "2026-10-21T19:10:38+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "posted",
+      "id": "18104353307622943",
+      "fp": "1361a8c8aeae1819",
+      "kind": "video",
+      "at": "2026-10-25T12:03:17+00:00"
+    }
   },
   "2026-10-25_Zero_Rupee_Cart": {
     "facebook": {
