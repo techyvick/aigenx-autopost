@@ -399,7 +399,13 @@
       "kind": "video",
       "at": "2026-10-21T19:11:03+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "posted",
+      "id": "18105069476534029",
+      "fp": "b5a5378de92eafca",
+      "kind": "video",
+      "at": "2026-10-27T16:41:58+00:00"
+    }
   },
   "2026-10-28_AI_Video_Pricing_Sheet": {
     "facebook": {
