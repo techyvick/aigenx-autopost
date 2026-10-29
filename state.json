@@ -447,7 +447,13 @@
       "kind": "video",
       "at": "2026-10-21T19:11:22+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "posted",
+      "id": "17953502976278961",
+      "fp": "0f0b3ee09388fda2",
+      "kind": "video",
+      "at": "2026-10-29T08:36:48+00:00"
+    }
   },
   "2026-10-29_Nano_Banana_Portraits": {
     "facebook": {
