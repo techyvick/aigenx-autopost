@@ -511,7 +511,13 @@
       "kind": "images",
       "at": "2026-10-20T17:51:38+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "posted",
+      "id": "18108759280964036",
+      "fp": "043c7c46de810de1",
+      "kind": "images",
+      "at": "2026-10-31T08:27:34+00:00"
+    }
   },
   "2026-10-31_60-Second_Script_Template": {
     "facebook": {
