@@ -591,7 +591,13 @@
       "kind": "video",
       "at": "2026-10-21T19:12:06+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "posted",
+      "id": "18099525446545703",
+      "fp": "579eda2c113e878c",
+      "kind": "video",
+      "at": "2026-11-02T20:02:57+00:00"
+    }
   },
   "2026-11-03_How_to_Join": {
     "facebook": {
