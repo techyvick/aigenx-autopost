@@ -639,7 +639,10 @@
       "kind": "video",
       "at": "2026-10-21T19:12:28+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "missed",
+      "fp": "ffe203712953d0b6"
+    }
   },
   "2026-11-04_Your_First_AI_Video": {
     "facebook": {
@@ -649,7 +652,13 @@
       "kind": "images",
       "at": "2026-10-20T17:52:24+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "posted",
+      "id": "18646445248007454",
+      "fp": "fa26d6e10e94db76",
+      "kind": "images",
+      "at": "2026-11-04T17:54:31+00:00"
+    }
   },
   "2026-11-05_Follower_to_Client_DMs": {
     "facebook": {
