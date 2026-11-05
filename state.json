@@ -684,7 +684,13 @@
       "kind": "video",
       "at": "2026-10-21T19:12:42+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "posted",
+      "id": "18156164305555514",
+      "fp": "f8e77c59489a38f6",
+      "kind": "video",
+      "at": "2026-11-05T19:00:37+00:00"
+    }
   },
   "2026-11-06_4_Types_of_Creators": {
     "facebook": {
