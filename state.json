@@ -700,7 +700,10 @@
       "kind": "images",
       "at": "2026-10-20T17:52:39+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "missed",
+      "fp": "56739bf4fa3dfb4c"
+    }
   },
   "2026-11-06_Quality_Booster_List": {
     "facebook": {
@@ -710,7 +713,13 @@
       "kind": "video",
       "at": "2026-10-21T19:12:47+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "posted",
+      "id": "18136149709665590",
+      "fp": "2f780e92f69ae4e9",
+      "kind": "video",
+      "at": "2026-11-06T14:50:37+00:00"
+    }
   },
   "2026-11-07_Free_Music_and_SFX_Guide": {
     "facebook": {
