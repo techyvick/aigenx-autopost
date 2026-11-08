@@ -761,7 +761,13 @@
       "kind": "video",
       "at": "2026-10-21T19:12:59+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "posted",
+      "id": "18098011190392831",
+      "fp": "1fe7deab7fdb38ea",
+      "kind": "video",
+      "at": "2026-11-08T07:48:09+00:00"
+    }
   },
   "2026-11-08_Prompt_of_the_Week": {
     "facebook": {
