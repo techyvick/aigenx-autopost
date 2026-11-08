@@ -777,7 +777,13 @@
       "kind": "images",
       "at": "2026-10-20T17:53:09+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "status": "posted",
+      "id": "18126190429922361",
+      "fp": "0926919cc9523a8a",
+      "kind": "images",
+      "at": "2026-11-08T14:51:29+00:00"
+    }
   },
   "2026-11-09_AI_Invite_Video_Prompts": {
     "facebook": {
