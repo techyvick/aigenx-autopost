@@ -822,7 +822,11 @@
       "kind": "images",
       "at": "2026-10-20T17:53:24+00:00"
     },
-    "instagram": {}
+    "instagram": {
+      "error": "Instagram couldn't process media 18036065984910992 (ERROR: Error: Media upload has failed with error code 2207032). Open the media URL in a browser to check it loads.",
+      "fp": "66718bdb71cfedd6",
+      "attempts": 1
+    }
   },
   "2026-11-10_1-Page_Prompt_Formula": {
     "facebook": {
